@@ -6,5 +6,4 @@ prettytable
 ipykernel
 pyswisseph
 git+https://github.com/diliprk/flatlib.git@sidereal
-VedicAstro
-git+https://github.com/diliprk/flatlib.git@sidereal#egg=flatlib
+
